@@ -1,1 +1,0 @@
-La cartella per l'applicazione UDP è consegnaUDP, separata come richiesto nella traccia dalla consegna della versione TCP. I programmi sono stati sviluppati principalmente su Windows, ma la portabilità è stata testata anche su Unix.
